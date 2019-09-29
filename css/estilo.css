@@ -1,0 +1,116 @@
+body {
+  font-family: 'Raleway'; }
+  @media screen and (max-width: 520px) {
+    body ul.nav.navbar-nav.menu-itens li {
+      display: none; } }
+  body .menu-btn.click-off {
+    display: none; }
+    @media screen and (max-width: 520px) {
+      body .menu-btn.click-off i {
+        display: none; } }
+  body .menu-btn.click-off.close-btn {
+    display: none; }
+  body .menu-btn {
+    float: right;
+    font-size: 35px;
+    color: #fff; }
+  body .menu-btn.bars {
+    display: none; }
+    @media screen and (max-width: 520px) {
+      body .menu-btn.bars {
+        display: block; } }
+
+.menu-principal-nav {
+  background: #005066; }
+  .menu-principal-nav .menu-header {
+    display: block;
+    float: left; }
+    .menu-principal-nav .menu-header .menu-title {
+      color: #fff; }
+  .menu-principal-nav .menu-itens {
+    text-align: right;
+    float: right; }
+    .menu-principal-nav .menu-itens li {
+      display: inline-block; }
+
+.navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile {
+  position: absolute;
+  width: 100%;
+  height: 100%; }
+  .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile .navbar-header.menu-header {
+    margin: unset;
+    width: 100%;
+    display: block;
+    float: left; }
+    .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile .navbar-header.menu-header .menu-title {
+      color: #fff;
+      padding-left: unset; }
+    .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile .navbar-header.menu-header .close-btn {
+      float: right;
+      font-size: 35px;
+      color: #fff;
+      position: absolute;
+      right: 20px;
+      opacity: 1;
+      top: 10px; }
+  .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile ul.menu-itens.menu-mobile {
+    display: unset;
+    width: 100%;
+    margin: unset;
+    padding: unset;
+    text-align: left;
+    margin-top: 25px; }
+    .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile ul.menu-itens.menu-mobile li:first-child {
+      border-top: 1px solid #6f6f6f; }
+    .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile ul.menu-itens.menu-mobile li.iten-m {
+      display: block;
+      width: 100%;
+      border-bottom: 1px solid #6f6f6f; }
+      .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile ul.menu-itens.menu-mobile li.iten-m a {
+        color: #fff;
+        padding-left: unset; }
+  .navbar.navbar-inverse.navbar-fixed-top.menu-principal-nav.menu-mobile a.menu-btn.close-btn {
+    position: absolute;
+    right: 10px; }
+
+.index-section {
+  margin-top: 50px; }
+  .index-section h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold; }
+  .index-section p {
+    margin-top: 50px; }
+
+.section-table .container {
+  margin-bottom: 50px; }
+  .section-table .container h2 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-weight: bold; }
+
+.table-mt4.table-bordered {
+  border: 1px solid #ccc; }
+  .table-mt4.table-bordered .tr-mt4 {
+    text-align: center; }
+  .table-mt4.table-bordered .tr-mt4 th {
+    text-align: center; }
+  .table-mt4.table-bordered .edite-btn {
+    background: none;
+    border: none;
+    font-size: 13px;
+    color: #005066; }
+  .table-mt4.table-bordered .desative-btn, .table-mt4.table-bordered .ative-btn {
+    font-size: 13px;
+    color: #005066; }
+
+.section-table .container p {
+  text-align: center;
+  margin-bottom: 50px; }
+.section-table .container .form-ex .btn-primary {
+  float: right; }
+
+/*# sourceMappingURL=estilo.scss.map */
+
+/*# sourceMappingURL=estilo.css.map */

@@ -1,0 +1,37 @@
+.section-table{
+    .container{
+        margin-bottom: 50px;
+
+        h2{
+            margin-top: 100px;
+            margin-bottom: 50px;
+            text-align: center;
+            font-weight: bold;
+        }
+    }
+}
+
+.table-mt4.table-bordered{
+    border: 1px solid #ccc;
+
+    .tr-mt4{
+        text-align: center;
+    }
+
+    .tr-mt4 th{
+        text-align: center;
+    }
+
+    .edite-btn {
+        background: none;
+        border: none;
+        font-size: 13px;
+        color: #005066;
+    }
+
+    .desative-btn, .ative-btn {
+        font-size: 13px;
+        color: #005066;
+    }
+}
+
