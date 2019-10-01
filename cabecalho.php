@@ -15,7 +15,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top menu-principal-nav">
     <div class="container-fluid menu-principal">
         <div class="navbar-header menu-header">
-            <a class="navbar-brand menu-title" href="/mt4_php/">Teste MT4</a>
+            <a class="navbar-brand menu-title" href="/mt4_php/">Teste MT4 Networks</a>
         </div>
         <a class="menu-btn bars" href="#"><i class="fas fa-bars"></i></a>
         <a class="menu-btn close-btn click-off" href="#"><i class="fas fa-times"></i></a>
@@ -23,7 +23,7 @@
             <li class="iten-m"><a href="lista.php">Relatório</a></li>
             <li class="iten-m"><a href="cadastro.php">Cadastrar</a></li>
             <li class="iten-m"><a href="executar.php">Executar</a></li>
-            <li class="iten-m"><a href="tabela-logs.php">Tabela de Logs</a></li>
+            <li class="iten-m"><a href="tabela-logs.php">Logs</a></li>
         </ul>
     </div>
 </nav>
