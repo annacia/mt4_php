@@ -11,6 +11,7 @@ function ativaDispositivo(element){
         type: "POST",
         dataType: "text",
         success:function(response){
+            console.log('ok');
             console.log(response);
         },
         error: function (xhr, ajaxOptions, thrownError) {
