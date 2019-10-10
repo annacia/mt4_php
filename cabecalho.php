@@ -24,6 +24,7 @@
             <li class="iten-m"><a href="cadastro.php">Cadastrar</a></li>
             <li class="iten-m"><a href="executar.php">Executar</a></li>
             <li class="iten-m"><a href="tabela-logs.php">Logs</a></li>
+            <li class="iten-m"><a href="tabela-logs.php">Logs</a></li>
         </ul>
     </div>
 </nav>
